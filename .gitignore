@@ -1,0 +1,13 @@
+/node_modules
+/public/storage
+/storage/*.key
+Homestead.json
+Homestead.yaml
+.env
+/.idea
+composer.lock
+_ide_helper.php
+_ide_helper_models.php
+*.env
+*.test
+/public/upload
