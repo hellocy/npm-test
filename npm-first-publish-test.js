@@ -1,3 +1,3 @@
 exports.sayHello = function () {
-    return "Hello,芳芳!";
+    return "Hello,word!";
 };
